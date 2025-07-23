@@ -3,7 +3,7 @@
 🎯 **Motoboy, estudante de Análise e Desenvolvimento de Sistemas** e também **pastor**, apaixonado por tecnologia e por usar o conhecimento para impactar vidas.
 
 📌 **Objetivo profissional:**
-Me tornar um desenvolvedor front-end focado em **React**, criando interfaces modernas, responsivas e acessíveis para empresas, igrejas e pequenos negócios.
+Me tornar um desenvolvedor front-end focado em **React**, criando interfaces modernas, responsivas e acessíveis para empresas, igrejas e pequenos e grande negócios.
 
 ---
 
